@@ -1,3 +1,10 @@
 <resources>
     <string name="app_name">MVPArms</string>
+
+    <string-array name="movie_sort_titles">
+        <item>最新</item>
+        <item>必看</item>
+        <item>经典</item>
+        <item>推荐</item>
+    </string-array>
 </resources>

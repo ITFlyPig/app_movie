@@ -32,6 +32,7 @@ public class MainMoviePresenter extends BasePresenter<MainMovieContract.Model, M
 
     public void initTitles() {
 
+
     }
 
     @Override
