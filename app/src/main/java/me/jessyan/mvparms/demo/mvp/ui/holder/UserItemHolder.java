@@ -75,5 +75,7 @@ public class UserItemHolder extends BaseHolder<User> {
         mImageLoader.clear(mAppComponent.application(), ImageConfigImpl.builder()
                 .imageViews(mAvatar)
                 .build());
+
+
     }
 }

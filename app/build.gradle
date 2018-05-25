@@ -74,4 +74,7 @@ dependencies {
     implementation rootProject.ext.dependencies["appcompat-v7"]
     implementation rootProject.ext.dependencies["design"]
 
+    //下拉刷新
+    implementation rootProject.ext.dependencies["ultra-ptr"]
+
 }
